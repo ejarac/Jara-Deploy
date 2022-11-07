@@ -1,4 +1,4 @@
-name: Jara Deploy App
+name: Deploy app to github pages
 on:
   push:
     branches:
