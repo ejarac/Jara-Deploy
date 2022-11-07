@@ -3,7 +3,7 @@ on:
   pull_request:
   push:
     branches:
-      - deployments/*
+      - deployments/change-name
 jobs:
   test-code:
     runs-on: ubuntu-latest
